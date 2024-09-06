@@ -1,0 +1,1 @@
+{"name":"Local: g","url":"/Users/adit/Desktop/Adit/Coding/Dsa Assignments/asn8/g.c","tests":[{"id":1711396399996,"input":"4 2 \n5 4 2 4","output":"8"},{"id":1711396424729,"input":"5 3 \n1 2 3 4 5","output":"14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/adit/Desktop/Adit/Coding/Dsa Assignments/asn8/g.c","group":"local","local":true}

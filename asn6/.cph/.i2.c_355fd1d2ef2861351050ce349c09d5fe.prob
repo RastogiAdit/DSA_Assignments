@@ -1,0 +1,1 @@
+{"name":"Local: i2","url":"/Users/adit/Desktop/Adit/Coding/Dsa Assignments/asn6/i2.c","tests":[{"id":1709003840846,"input":"8 \n1 7 \n1 14 \n1 3 \n2\n1 20 \n2\n1 10 \n2","output":"7\n7\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/adit/Desktop/Adit/Coding/Dsa Assignments/asn6/i2.c","group":"local","local":true}

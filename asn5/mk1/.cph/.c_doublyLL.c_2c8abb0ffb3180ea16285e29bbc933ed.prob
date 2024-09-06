@@ -1,0 +1,1 @@
+{"name":"Local: c_doublyLL","url":"/Users/adit/Desktop/Adit/Coding/Dsa Assignments/asn5/mk1/c_doublyLL.c","tests":[{"id":1708409799904,"input":"5\n1 2 6 23 3","output":"3 23 6 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/adit/Desktop/Adit/Coding/Dsa Assignments/asn5/mk1/c_doublyLL.c","group":"local","local":true}

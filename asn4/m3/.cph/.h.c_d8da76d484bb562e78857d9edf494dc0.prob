@@ -1,0 +1,1 @@
+{"name":"Local: h","url":"/Users/adit/Desktop/Adit/Coding/Dsa Assignments/asn4/m3/h.c","tests":[{"id":1707804100962,"input":"7 4 3","output":"KOKOKOK"},{"id":1707804108594,"input":"19 13 6","output":"KKOKKOKKOKKOKKOKKOK"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/adit/Desktop/Adit/Coding/Dsa Assignments/asn4/m3/h.c","group":"local","local":true}

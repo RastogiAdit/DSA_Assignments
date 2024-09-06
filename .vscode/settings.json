@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "__split_buffer": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "vector": "c",
+        "istream": "c",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "__node_handle": "cpp",
+        "deque": "cpp",
+        "queue": "cpp",
+        "unordered_map": "cpp",
+        "stack": "cpp"
+    }
+}
